@@ -2,6 +2,10 @@
   <h1> 👋 Hi! I'm Belén</h1>
   
  *From Ikea forniture, to Full-Stack web apps... **I just love building stuff***
+  
+  🌍 From Spain <br/>
+  🏠 Living in Kansas City
+  
 
 
 ### Technologies, tools and languages I love the most
