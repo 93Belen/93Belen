@@ -2,12 +2,17 @@
   <h1> 👋 Hi! I'm Belén</h1>
   
  *From Ikea forniture, to Full-Stack web apps... **I just love building stuff***
+  
+  <br/>
     
   ```diff
   🌍 From Spain
   🏠 Living in Kansas City
   ```
 </div>
+
+ <br/>
+
 
 <div align='center'>
 
@@ -18,6 +23,7 @@
 
 <br/>
 <br/>
+
 
 <div align='center'>
 
