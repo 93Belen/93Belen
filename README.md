@@ -1,7 +1,7 @@
 <div align='center'>
   <h1> 👋 Hi! I'm Belén</h1>
   
- *From Ikea forniture, to Full-Stack web apps... **I just love building stuff***
+ *From Ikea furniture, to Full-Stack web apps... **I just love building stuff***
   
   <br/>
     
