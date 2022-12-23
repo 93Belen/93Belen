@@ -29,8 +29,14 @@
 
 ![Robot](https://user-images.githubusercontent.com/98275292/208780983-156aff75-a760-4b39-b340-031a2bd97bb8.svg) I build this little guy when I was starting my coding journy,
 [go say hi to him!](https://93belen.github.io/robot/)
+ 
+[And don't forget to check out my video portfolio!](https://www.youtube.com/watch?v=6LPBX8z4vxE&t=8s) :v:
+  
+</div>
+  
+  
+  
 
-  </div>
 
 
 
