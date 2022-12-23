@@ -27,7 +27,9 @@
 
 <div align='center'>
   
-:point_right: [See my resume](https://github.com/93Belen/Resume/blob/main/Resume2023.pdf) 
+:point_right: [See my resume](Resume2023.pdf) 
+  
+
  
 [And don't forget to check out my video portfolio!](https://www.youtube.com/watch?v=6LPBX8z4vxE&t=8s) :v:
   
