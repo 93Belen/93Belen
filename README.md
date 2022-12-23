@@ -27,7 +27,7 @@
 
 <div align='center'>
   
-:point_right: [See my resume](Resume2023.pdf) 
+:point_right: [See my resume](https://github.com/93Belen/Resume.git)
   
 
  
